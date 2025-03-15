@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: https://github.com/Avneesh0404/FitWithUs
   branch: main  # Change this to your repo's main branch
 
 media_folder: "Img"  # Upload images to your "Img" folder
